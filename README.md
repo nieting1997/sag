@@ -30,3 +30,7 @@
 * 并发测试完全可支持业务需求
 
 * acl下发规则 < 3S
+
+## 底层借助
+* https://wiki.fd.io/view/VPP
+* https://www.intel.cn/content/www/cn/zh/communications/data-plane-development-kit.html
