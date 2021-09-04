@@ -2,15 +2,14 @@
 
 ## 拓扑图
 
-![边缘网关](https://user-images.githubusercontent.com/90097659/132097656-ba48407c-6299-4d65-93fc-1c41e6ac7854.jpg)
-
+![sag](https://user-images.githubusercontent.com/90097659/132097960-27c91b9a-10d4-4afb-be00-e00fb976cc40.png)
 
 * 边缘/IDC节点安装VPP。
 
 * 管理员通过server配置设备(私网接口)。
 * proxy与节点通过RPC互相发送信息(公网接口)。
 
-## 完成工作：
+## 完成工作
 
 ### 开发工作
 
@@ -26,7 +25,7 @@
 
     关键词：vpp查询自身流量，通过环境变量传递token，无锁队列加快上报速度
 
- ### 性能测试：
+ ### 性能测试
 
 * 并发测试完全可支持业务需求
 
